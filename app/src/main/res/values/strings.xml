@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Crawler</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_result">Результат</string>
+    <string name="title_activity_gallery">Галерея</string>
+    <string name="input_query">Введите адрес сайта</string>
+    <string name="find">Поиск</string>
+    <string name="labelOfMaxNode">Максимальный уровень вложености</string>
+    <string name="labelOfMaxPage">Максимальное число страниц для поиска</string>
+    <string name="time">Время выполнени(в секундах):</string>
+    <string name="count_of_tags">Количество тегов :</string>
+    <string name="sort_ascending">Сортировать по возрастанию</string>
+    <string name="sort_descending">Сортировать по убыванию</string>
+    <string name="empty_answer">Приложению не удалось собрать информацию о выбранном ресурсе, возможно вы допустили ошибку при ввроде данных, либо отсутствует интернет соединение.
+   \n Пример коректно заполненого  адресса: \"https://zametkinapolyah.ru/\"
+    </string>
+
+</resources>
